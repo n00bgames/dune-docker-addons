@@ -12,8 +12,8 @@ Example:
   "author": "Red-Blink",
   "version": "1.0.0",
   "type": "ui",
-  "sourceUrl": "https://github.com/Red-Blink/dune-console-addon-leadership-board",
-  "downloadUrl": "https://github.com/Red-Blink/dune-console-addon-leadership-board/releases/download/v1.0.0/leadership-board.zip",
+  "sourceUrl": "https://github.com/Red-Blink/dune-docker-leadership",
+  "downloadUrl": "https://github.com/Red-Blink/dune-docker-leadership/releases/download/v1.0.0/leadership-board.zip",
   "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
   "permissions": [
     "players:read"
